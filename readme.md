@@ -60,6 +60,7 @@ Use localStorage or Firebase for cart storage
 ---
 
 👨‍💻 Author
+
  Email: ritikanand.02062000@gmail.com
 
  GitHub: https://github.com/RitikAnand02
