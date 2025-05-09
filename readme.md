@@ -4,7 +4,7 @@ Blazekart is a simple eCommerce front-end website built using HTML, CSS, and Jav
 
 ## 🌐 Demo
 
-> **Live Preview:** - blazekart-project.netlify.app 
+> **Live Preview:**: https://blazekart-project.netlify.app 
 
 > *(Or open `index.html` in your browser to view locally)*
 
@@ -60,11 +60,11 @@ Use localStorage or Firebase for cart storage
 ---
 
 👨‍💻 Author
-## Email: ritikanand.020602000@gmail.com
+ Email: ritikanand.02062000@gmail.com
 
-## GitHub: https://github.com/RitikAnand02
+ GitHub: https://github.com/RitikAnand02
 
-## Linkedin: https://www.linkedin.com/in/ritik-anand-063b36313/
+ Linkedin: https://www.linkedin.com/in/ritik-anand-063b36313/
 
 ---
 
